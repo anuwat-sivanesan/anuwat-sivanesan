@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuwat Sivanesan</h1>
 
 
-
-- 🌱 I’m currently learning "BloC, Firebase, Clean Architecture & TDD"
-
 - 💬 Ask me about "Flutter, Dart"
 
 - 📫 How to reach me "sivanesan1109@gmail.com"
